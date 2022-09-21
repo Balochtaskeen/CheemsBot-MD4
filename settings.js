@@ -69,7 +69,7 @@ global.websitex = "https://youtu.be/ORnNnuxjq6k" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.packname = Ͳąʂҟҽҽղ βąӀօçհ "\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
 global.author = "🦄 Ͳąʂҟҽҽղ βąӀօçհ " //ur sticker watermark author
 
 //Bot theme media
@@ -132,16 +132,5 @@ global.mess = {
    emeraldawal: 5,
    umpanawal: 5,
    potionawal: 1
-}
-global.thumb = fs.readFileSync('./XeonMedia/theme/cheemspic.jpg')
-global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-let file = require.resolve(__filename)
-fs.watchFile(file, () => {
-	fs.unwatchFile(file)
-	console.log(chalk.redBright(`Update'${__filename}'`))
-	delete require.cache[file]
-	require(file)
-})
+Owner all this group auto admin 
+Owner number.923216740469
